@@ -1,0 +1,5 @@
+build: Dns_resolver.java
+
+	javac Dns_resolver.java
+
+clean: rm -r Dns_resolver.class
